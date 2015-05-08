@@ -29,7 +29,6 @@ setyamienv()
 
     export PATH="${ADD_PATH}:$PATH"
 
-    export GST_PLUGIN_PATH_1.0="${GSTOMX_PREFIX}/lib/gstreamer-1.0"
 
     echo "*======================current configuration============================="
     echo "* VAAPI_PREFIX:               $VAAPI_PREFIX"
